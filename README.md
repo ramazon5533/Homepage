@@ -1,5 +1,5 @@
 # Hello World!, I'm Ramazon, an Uzbek Web Developer 👋🏼:
-🛜 currently learning in Korea, South [webpage](https://www.tobiasmeyhoefer.de)<br> finding a job to Full Stack Developer <br>🎬 just started out with my youtube channel <i>ramazondev</i>
+🛜 currently learning in Korea, South<br> finding a job to Full Stack Developer <br>🎬 just started out with my youtube channel <i>ramazondev</i>
 
 
 # 💻 Tech Stack:
